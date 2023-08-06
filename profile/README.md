@@ -4,4 +4,4 @@
 https://documenter.getpostman.com/view/13149140/2s9XxyRtqD
 
 ## Architecture Slide
-tinyurl.com/triptixslide
+https://tinyurl.com/triptixslide
